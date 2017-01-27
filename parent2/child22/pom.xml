@@ -1,0 +1,22 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+   <modelVersion>4.0.0</modelVersion>
+   <parent>
+      <groupId>sk.beeit.rlat</groupId>
+      <artifactId>parent2</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+   </parent>
+   <artifactId>child22</artifactId>
+   <packaging>war</packaging>
+   <dependencies>
+      <dependency>
+         <groupId>sk.beeit.rlat</groupId>
+         <artifactId>child11</artifactId>
+         <version>0.0.1-SNAPSHOT</version>
+      </dependency>
+      <dependency>
+         <groupId>sk.beeit.rlat</groupId>
+         <artifactId>child21</artifactId>
+         <version>0.0.1-SNAPSHOT</version>
+      </dependency>
+   </dependencies>
+</project>
