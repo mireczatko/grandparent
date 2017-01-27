@@ -11,7 +11,6 @@
       <dependency>
          <groupId>sk.beeit.rlat</groupId>
          <artifactId>child11</artifactId>
-         <version>0.0.1-SNAPSHOT</version>
       </dependency>
    </dependencies>
 </project>
